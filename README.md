@@ -41,7 +41,7 @@
 
 
 <p margin="100px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiradeep98&show_icons=true&locale=en&layout=compact" alt="chiradeep98" /></p>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiradeep98/chiradeep98/main/coding_img.gif" />
+<img align="right" alt="coding" width="400" src="https://github.com/chiradeep98/chiradeep98/blob/main/bin_img.gif" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiradeep98&show_icons=true&locale=en" alt="chiradeep98" /></p>
 
