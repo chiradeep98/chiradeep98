@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chiradeep Ghosh</h1>
 <h3 align="center">A Passionate Software Developer from West Bengal</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/chiradeep98/chiradeep98/blob/main/boy.gif" />
+<img align="right" alt="coding" width="300" src="https://github.com/chiradeep98/chiradeep98/blob/main/boy.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiradeep98&label=Profile%20views&color=0e75b6&style=flat" alt="chiradeep98" /> </p>
 
@@ -41,7 +41,7 @@
 
 
 <p margin="100px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chiradeep98&show_icons=true&locale=en&layout=compact" alt="chiradeep98" /></p>
-<img align="right" alt="coding" width="400" src="https://github.com/chiradeep98/chiradeep98/blob/main/func.gif" />
+<img align="right" alt="coding" width="300" src="https://github.com/chiradeep98/chiradeep98/blob/main/func.gif" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chiradeep98&show_icons=true&locale=en" alt="chiradeep98" /></p>
 
