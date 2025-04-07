@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAGj_ChAlWE/bG5EhaY6Ogj_4B1Qo3yUeA/edit?utm_content=DAGj_ChAlWE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![logo](https://github.com/chiradeep98/chiradeep98/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Chiradeep Ghosh</h1>
 <h3 align="center">A Passionate Software Developer from West Bengal</h3>
