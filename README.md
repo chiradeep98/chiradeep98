@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Chiradeep Ghosh</h1>
 <h3 align="center">A Passionate Software Developer from West Bengal</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://www.lambdatest.com/resources/images/news24.gif”>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/chiradeep98/chiradeep98/main/coding_img.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiradeep98&label=Profile%20views&color=0e75b6&style=flat" alt="chiradeep98" /> </p>
 
