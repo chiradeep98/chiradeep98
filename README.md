@@ -2,30 +2,30 @@
   <img src="https://github.com/chiradeep98/chiradeep98/blob/main/Black%20and%20Red%20Edgy%20Gaming%20Youtube%20Banner%20(2).png" alt="banner" />
 </p>
 
-<h1 align="center">Hi <span style="font-size: 40px;">👋</span>, I'm <span style="color: #f06292;">Chiradeep Ghosh</span></h1>
-<h3 align="center">🚀 A Passionate Software Developer from <span style="color: #ffb300;">West Bengal</span></h3>
+<h1 align="center">Hi 👋, I'm Chiradeep Ghosh</h1>
+<h3 align="center">A Passionate Software Developer from West Bengal</h3>
 
 <p align="center">
-  <img src="https://github.com/chiradeep98/chiradeep98/blob/main/boy.gif" width="200" alt="coding" />
+  <img src="https://github.com/chiradeep98/chiradeep98/blob/main/boy.gif" width="150" alt="coding" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chiradeep98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<hr>
+---
 
 ### 🚀 About Me
 
-- 🌱 Currently learning: <strong>Deep Learning in Image Processing, Gen AI Techniques, Flutter, Python for Data Science</strong>
-- 🔬 Research Focus: <a href="https://github.com/chiradeep98/Image-Captioning">Image to Text Conversion using Deep Learning</a>
-- 👨‍💻 All my projects: <a href="https://github.com/chiradeep98">GitHub Portfolio</a>
-- 💬 Ask me about: <strong>Neural Networks, DL for Images, Transformers</strong>
-- 📫 Reach me at: <strong>chiradipghosh5@gmail.com</strong>
-- 📄 Resume: <a href="https://drive.google.com/file/d/1U8p2KJ6EGDeXkd6ym4Mk7T4pL4dyxq2e/view?usp=sharing">View My Resume</a>
-- ⚡ Fun Fact: <strong>I think I am funny 🤪</strong>
+- 🌱 Currently learning: **Deep Learning in Image Processing, Gen AI Techniques, Flutter, Python for Data Science**
+- 🔬 Research Focus: [Image to Text Conversion using Deep Learning](https://github.com/chiradeep98/Image-Captioning)
+- 👨‍💻 All my projects: [GitHub Portfolio](https://github.com/chiradeep98)
+- 💬 Ask me about: **Neural Networks, DL for Images, Transformers**
+- 📫 Reach me at: **chiradipghosh5@gmail.com**
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1U8p2KJ6EGDeXkd6ym4Mk7T4pL4dyxq2e/view?usp=sharing)
+- ⚡ Fun Fact: **I think I am funny 🤪**
 
-<hr>
+---
 
 ### 🌐 Connect with Me
 
@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<hr>
+---
 
 ### 🛠️ Languages and Tools
 
@@ -73,22 +73,27 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
 </p>
 
-<hr>
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chiradeep98&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiradeep98&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeep98&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiradeep98&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiradeep98&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chiradeep98&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<hr>
+---
 
 <p align="center">
-  <img src="https://github.com/chiradeep98/chiradeep98/blob/main/func.gif" width="250" alt="Fun GIF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chiradeep98&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_rank=true&theme=tokyonight&line_height=28" alt="GitHub Stats" />
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/chiradeep98/chiradeep98/blob/main/func.gif" width="200" alt="Fun GIF" />
 </p>
